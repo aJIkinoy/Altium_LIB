@@ -1,0 +1,14 @@
+Component   : TFLGA-16L
+PCB Library : PCB_lib.PcbLib
+Date        : 22.11.2021
+Time        : 17:57:15
+
+
+
+Dimension : 4.064 x 3.658 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       2        0
+--------------------------------------------------------------------
+ Total                       0          4        0       2        0
